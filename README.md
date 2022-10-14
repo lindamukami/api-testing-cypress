@@ -14,6 +14,6 @@ In order to run the project follow the below steps:
 ## Running the tests
 Once the setup is done correctly, there are two basic ways to run the tests: Headlessly in the Electron browser or via Cypress Test Runner.
 
-To run the tests headlessly use - npx cypress run
+To run the tests headlessly use - `npx cypress run`
 
-To run the tests via Cypress Test Runner use - npx cypress open
+To run the tests via Cypress Test Runner use - `npx cypress open`
