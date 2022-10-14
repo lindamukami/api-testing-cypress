@@ -1,0 +1,23 @@
+{
+  "name": "api-testing-cypress",
+  "version": "1.0.0",
+  "description": "Simple API test automation project with selenium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindamukami/api-testing-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindamukami/api-testing-cypress/issues"
+  },
+  "homepage": "https://github.com/lindamukami/api-testing-cypress#readme",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
